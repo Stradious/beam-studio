@@ -1,0 +1,8 @@
+{
+  "length": 3,
+  "elasticModulus": 200000000000,
+  "secondMoment": 0.000008,
+  "samples": 801,
+  "uniformLoad": 300,
+  "pointLoads": [{ "force": 500, "position": 1.2 }]
+}
